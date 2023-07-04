@@ -13,5 +13,5 @@ Web Designer & Web Developer located in Indonesia, Creating design & programming
 - 🔭 I’m currently  **Software Engineering** at Pandu Talenta Digital
 - 🌱 I’m currently learning **Angular**, **Electron** and **React**
 - ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
-- 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
+- 👯 I’m looking to collaborate on **Open Source** and/or **Big data** projects
 - 💬 I'm mostly active within the **Facebook**, **Instagram**, **Dev.to** and **Youtube** communities
