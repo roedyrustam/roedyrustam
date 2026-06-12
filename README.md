@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/roedy-rustam/">
     <img src="https://img.shields.io/badge/-roedy%20rustam-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <a href="mailto:dev@sidepe.com">
-    <img src="https://img.shields.io/badge/dev@sidepe.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  <a href="mailto:support@bijidata.online">
+    <img src="https://img.shields.io/badge/support@bijidata.online-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 </p>
 
