@@ -1,37 +1,44 @@
-# Roedy Rustam, here 👋
-<p align="center">
-  <a href="https://twitter.com/roedyrustam">
-    <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40roedyrustam&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
-  </a>
-  <a href="https://www.linkedin.com/in/roedy-rustam/">
-    <img src="https://img.shields.io/badge/-roedy%20rustam-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-  <a href="mailto:support@bijidata.online">
-    <img src="https://img.shields.io/badge/support@bijidata.online-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-</p>
+# Hi there, I'm Roedy! 👋 
+### Digital Asset Creator & Full-Stack Developer
 
-<a href="https://github.com/roedyrustam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roedyrustam&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/roedyrustam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roedyrustam&layout=compact&theme=chartreuse-dark&langs_count=8" />
-</a>
+A passionate developer and creator focusing on building efficient web infrastructure, digital tools, and creative assets. I love automation, clean code, and crafting seamless digital experiences.
 
-<br>
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple)
-![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-cyan)
-![React](https://img.shields.io/badge/React-Beginner-blue)
-![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
+## 🛠️ Tech Stack & Tools
 
+### 🌐 Frontend & Backend Development
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-Web Designer & Web Developer located in Indonesia, Creating design & programming contents in [pandudesa](https://www.instagram.com/roedyrustam/ "").
+### 🗄️ Database & Cloud Platform
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently  **Software Engineering** at BijiData 
-- 🌱 I’m currently **Rust** **Angular** **Vite**, **Laravel**, **VUE** and **React** and **NEXTJS**
-- ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
-- 👯 I’m looking to collaborate on **Open Source** and/or **MobileApps** projects
-- 💬 I'm mostly active within the **Facebook**, **Instagram**, **Dev.to** and **Youtube** communities
+---
+
+## 📊 GitHub Analytics (Otomatis Update!)
+
+| 📈 My GitHub Stats | 🔥 Streak & Top Languages |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&count_private=true" width="400px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_progress=true" width="400px"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight" width="400px"/> |
+
+> **Catatan:** Ubah teks `USERNAME_KAMU` pada link di atas dengan *username* GitHub aslimu agar statistiknya muncul secara otomatis berdasarkan kode yang kamu *push*.
+
+---
+
+## 🕒 Recent Activity (Otomatis Update via GitHub Actions)
+<!-- START_SECTION:activity -->
+*Belum ada aktivitas terbaru yang tercatat.*
+<!-- END_SECTION:activity -->
+
+---
+
+## 🤝 Let's Connect!
+* **Website:** [roedyrustam.online](https://roedyrustam.online)
+* **LinkedIn:** [linkedin.com/in/username](https://linkedin.com)
+
+"Automating the boring stuff to focus on creativity." ☕
