@@ -26,7 +26,7 @@ A passionate developer and creator focusing on building efficient web infrastruc
 
 | 📈 My GitHub Stats | 🔥 Streak & Top Languages |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=roedyrustam&show_icons=true&theme=tokyonight&count_private=true" width="400px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roedyrustam&layout=compact&theme=tokyonight&hide_progress=true&count_private=true" width="400px"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=roedyrustamU&theme=tokyonight" width="400px"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=roedyrustam&show_icons=true&theme=tokyonight&count_private=true" width="400px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roedyrustam&layout=compact&theme=tokyonight&hide_progress=true&count_private=true" width="400px"/> 
 
 
 ---
