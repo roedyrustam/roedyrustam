@@ -24,7 +24,7 @@ A passionate developer and creator focusing on building efficient web infrastruc
 
 | 📈 My GitHub Stats | 🔥 Streak & Top Languages |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&count_private=true" width="400px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_progress=true" width="400px"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight" width="400px"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=roedyrustam&show_icons=true&theme=tokyonight&count_private=true" width="400px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roedyrustam&layout=compact&theme=tokyonight&hide_progress=true" width="400px"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=roedyrustam&theme=tokyonight" width="400px"/> |
 
 > **Catatan:** Ubah teks `USERNAME_KAMU` pada link di atas dengan *username* GitHub aslimu agar statistiknya muncul secara otomatis berdasarkan kode yang kamu *push*.
 
