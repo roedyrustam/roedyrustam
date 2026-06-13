@@ -29,7 +29,7 @@ A passionate developer and creator focusing on building efficient web infrastruc
 
 ---
 
-## 🕒 Recent Activity (Otomatis Update via GitHub Actions)
+## 🕒 Recent Activity 
 <!-- START_SECTION:activity -->
 *Belum ada aktivitas terbaru yang tercatat.*
 <!-- END_SECTION:activity -->
@@ -38,6 +38,6 @@ A passionate developer and creator focusing on building efficient web infrastruc
 
 ## 🤝 Let's Connect!
 * **Website:** [roedyrustam.online](https://roedyrustam.online)
-* **LinkedIn:** [linkedin.com/in/username](https://linkedin.com)
+* **LinkedIn:** [linkedin.com/in/roedyrustam](https://linkedin.com)
 
 "Automating the boring stuff to focus on creativity." ☕
