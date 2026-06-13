@@ -22,7 +22,7 @@ A passionate developer and creator focusing on building efficient web infrastruc
 
 ---
 
-## 📊 GitHub Analytics (Public & Private Repos)
+## 📊 GitHub Analytics
 
 | 📈 My GitHub Stats | 🔥 Streak & Top Languages |
 | --- | --- |
