@@ -20,7 +20,7 @@ A passionate developer and creator focusing on building efficient web infrastruc
 
 ---
 
-## 📊 GitHub Analytics (Otomatis Update!)
+## 📊 GitHub Analytics
 
 | 📈 My GitHub Stats | 🔥 Streak & Top Languages |
 | --- | --- |
