@@ -28,7 +28,6 @@ A passionate developer and creator focusing on building efficient web infrastruc
 | --- | --- |
 | <img src="https://github-readme-stats.vercel.app/api?username=roedyrustam&show_icons=true&theme=tokyonight&count_private=true" width="400px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roedyrustam&layout=compact&theme=tokyonight&hide_progress=true&count_private=true" width="400px"/> 
 
-
 ---
 
 ## 🕒 Recent Activity 
@@ -40,6 +39,6 @@ A passionate developer and creator focusing on building efficient web infrastruc
 
 ## 🤝 Let's Connect!
 * **Website:** [roedyrustam.online](https://roedyrustam.online)
-* **LinkedIn:** [linkedin.com/in/roedyrustam](https://linkedin.com)
+* **LinkedIn:** [linkedin.com/in/roedyrustam](https://linkedin.com/in/roedyrustam)
 
 "Automating the boring stuff to focus on creativity." ☕
